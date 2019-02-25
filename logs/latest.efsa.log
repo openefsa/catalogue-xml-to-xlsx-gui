@@ -1,0 +1,69 @@
+2019-01-28 15:39:55,095 INFO x.ConversionPerformer [main] Creating catalogue sheet...
+2019-01-28 15:39:57,916 INFO x.ConversionPerformer [main] catalogue: Created xml in temp\catalogue_2172864630400.xml
+2019-01-28 15:39:58,463 INFO x.ConversionPerformer [main] Creating hierarchy sheet...
+2019-01-28 15:40:01,070 INFO x.ConversionPerformer [main] hierarchy: Created xml in temp\hierarchy_2176225333754.xml
+2019-01-28 15:40:01,111 INFO x.ConversionPerformer [main] Creating attribute sheet...
+2019-01-28 15:40:02,842 INFO x.ConversionPerformer [main] attribute: Created xml in temp\attribute_2178875871002.xml
+2019-01-28 15:40:02,872 INFO x.ConversionPerformer [main] Creating term sheet...
+2019-01-28 15:40:05,638 INFO x.ConversionPerformer [main] term: Created xml in temp\term_2180633539286.xml
+2019-01-28 15:40:05,934 INFO s.SheetConverter [main] Processed 500 term
+2019-01-28 15:40:06,100 INFO s.SheetConverter [main] Processed 1000 term
+2019-01-28 15:40:06,272 INFO s.SheetConverter [main] Processed 1500 term
+2019-01-28 15:40:06,448 INFO s.SheetConverter [main] Processed 2000 term
+2019-01-28 15:40:06,591 INFO s.SheetConverter [main] Processed 2500 term
+2019-01-28 15:40:06,921 INFO s.SheetConverter [main] Processed 3000 term
+2019-01-28 15:40:07,067 INFO s.SheetConverter [main] Processed 3500 term
+2019-01-28 15:40:07,176 INFO s.SheetConverter [main] Processed 4000 term
+2019-01-28 15:40:07,275 INFO s.SheetConverter [main] Processed 4500 term
+2019-01-28 15:40:07,376 INFO s.SheetConverter [main] Processed 5000 term
+2019-01-28 15:40:07,473 INFO s.SheetConverter [main] Processed 5500 term
+2019-01-28 15:40:07,568 INFO s.SheetConverter [main] Processed 6000 term
+2019-01-28 15:40:07,663 INFO s.SheetConverter [main] Processed 6500 term
+2019-01-28 15:40:07,742 INFO s.SheetConverter [main] Processed 7000 term
+2019-01-28 15:40:07,813 INFO s.SheetConverter [main] Processed 7500 term
+2019-01-28 15:40:07,888 INFO s.SheetConverter [main] Processed 8000 term
+2019-01-28 15:40:07,967 INFO s.SheetConverter [main] Processed 8500 term
+2019-01-28 15:40:08,046 INFO s.SheetConverter [main] Processed 9000 term
+2019-01-28 15:40:08,135 INFO s.SheetConverter [main] Processed 9500 term
+2019-01-28 15:40:08,215 INFO s.SheetConverter [main] Processed 10000 term
+2019-01-28 15:40:08,249 INFO s.SheetConverter [main] Processed 10500 term
+2019-01-28 15:40:08,310 INFO s.SheetConverter [main] Processed 11000 term
+2019-01-28 15:40:08,360 INFO s.SheetConverter [main] Processed 11500 term
+2019-01-28 15:40:08,420 INFO s.SheetConverter [main] Processed 12000 term
+2019-01-28 15:40:08,480 INFO s.SheetConverter [main] Processed 12500 term
+2019-01-28 15:40:08,540 INFO s.SheetConverter [main] Processed 13000 term
+2019-01-28 15:40:08,590 INFO s.SheetConverter [main] Processed 13500 term
+2019-01-28 15:40:08,630 INFO s.SheetConverter [main] Processed 14000 term
+2019-01-28 15:40:08,680 INFO s.SheetConverter [main] Processed 14500 term
+2019-01-28 15:40:08,750 INFO s.SheetConverter [main] Processed 15000 term
+2019-01-28 15:40:08,791 INFO s.SheetConverter [main] Processed 15500 term
+2019-01-28 15:40:08,847 INFO s.SheetConverter [main] Processed 16000 term
+2019-01-28 15:40:08,917 INFO s.SheetConverter [main] Processed 16500 term
+2019-01-28 15:40:08,979 INFO s.SheetConverter [main] Processed 17000 term
+2019-01-28 15:40:09,028 INFO s.SheetConverter [main] Processed 17500 term
+2019-01-28 15:40:09,106 INFO s.SheetConverter [main] Processed 18000 term
+2019-01-28 15:40:09,156 INFO s.SheetConverter [main] Processed 18500 term
+2019-01-28 15:40:09,216 INFO s.SheetConverter [main] Processed 19000 term
+2019-01-28 15:40:09,286 INFO s.SheetConverter [main] Processed 19500 term
+2019-01-28 15:40:09,326 INFO s.SheetConverter [main] Processed 20000 term
+2019-01-28 15:40:09,411 INFO s.SheetConverter [main] Processed 20500 term
+2019-01-28 15:40:09,461 INFO s.SheetConverter [main] Processed 21000 term
+2019-01-28 15:40:09,501 INFO s.SheetConverter [main] Processed 21500 term
+2019-01-28 15:40:09,551 INFO s.SheetConverter [main] Processed 22000 term
+2019-01-28 15:40:09,611 INFO s.SheetConverter [main] Processed 22500 term
+2019-01-28 15:40:09,671 INFO s.SheetConverter [main] Processed 23000 term
+2019-01-28 15:40:09,731 INFO s.SheetConverter [main] Processed 23500 term
+2019-01-28 15:40:09,791 INFO s.SheetConverter [main] Processed 24000 term
+2019-01-28 15:40:09,871 INFO s.SheetConverter [main] Processed 24500 term
+2019-01-28 15:40:09,941 INFO s.SheetConverter [main] Processed 25000 term
+2019-01-28 15:40:10,001 INFO s.SheetConverter [main] Processed 25500 term
+2019-01-28 15:40:10,073 INFO s.SheetConverter [main] Processed 26000 term
+2019-01-28 15:40:10,153 INFO s.SheetConverter [main] Processed 26500 term
+2019-01-28 15:40:10,223 INFO s.SheetConverter [main] Processed 27000 term
+2019-01-28 15:40:10,294 INFO s.SheetConverter [main] Processed 27500 term
+2019-01-28 15:40:10,364 INFO s.SheetConverter [main] Processed 28000 term
+2019-01-28 15:40:10,424 INFO s.SheetConverter [main] Processed 28500 term
+2019-01-28 15:40:10,484 INFO x.ConversionPerformer [main] Creating releaseNotes sheet...
+2019-01-28 15:40:12,364 INFO x.ConversionPerformer [main] releaseNotes: Created xml in temp\releaseNotes_2188243757050.xml
+2019-01-28 15:40:12,375 INFO x.XmlCatalogueToExcel [main] Writing the excel file...
+2019-01-28 15:40:14,230 INFO x.XmlCatalogueToExcel [main] Done
